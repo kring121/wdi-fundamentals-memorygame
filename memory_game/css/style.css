@@ -76,6 +76,17 @@ height: 0;
 font-size: 0;
 }
 
+#reset {
+  background-color: #F15B31;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 20px;
+  max-width: 100px;
+  border-radius: 20px;
+  font-family: "Raleway" , sans-serif;
+  color: #FFFFFF;
+}
+
 footer {
   font-family: "Raleway" , sans-serif;
   text-transform: uppercase;
